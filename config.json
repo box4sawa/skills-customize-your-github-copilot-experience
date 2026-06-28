@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "testing-and-debugging",
+      "title": "Testing and Debugging in Python",
+      "description": "Write tests and debug broken Python functions to improve code reliability.",
+      "path": "assignments/testing-and-debugging",
+      "dueDate": "2026-07-19",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
